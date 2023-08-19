@@ -13,8 +13,12 @@ Tap into your inner musician with the dynamic drum kit. Featuring a collection o
 Features:
 ----------
 
-Dice Game: Roll the dice, calculate probabilities, and strategize to win the game.
-Drum Kit: Experiment with different drum sounds, create rhythms, and explore musical creativity.
-User-Friendly: The project boasts an intuitive user interface for a seamless and enjoyable experience.
-JavaScript-Powered: The magic happens behind the scenes with the power of JavaScript, making interactions smooth and responsive.
-Visual Appeal: A visually appealing design enhances the overall enjoyment and engagement of the project.
+1. Dice Game: Roll the dice, calculate probabilities, and strategize to win the game.
+
+2. Drum Kit: Experiment with different drum sounds, create rhythms, and explore musical creativity.
+
+3. User-Friendly: The project boasts an intuitive user interface for a seamless and enjoyable experience.
+
+4. JavaScript-Powered: The magic happens behind the scenes with the power of JavaScript, making interactions smooth and responsive.
+
+5. Visual Appeal: A visually appealing design enhances the overall enjoyment and engagement of the project.
